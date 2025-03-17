@@ -1,2 +1,3 @@
-console.log("hello world");
-console.log("hello 1234");
+const a = 1;
+const b = 9;
+console.log(a + b);
